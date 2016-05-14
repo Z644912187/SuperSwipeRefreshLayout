@@ -38,8 +38,7 @@ import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 
 /**
- * @Author Zheng Haibo
- * @PersonalWebsite http://www.mobctrl.net
+ * Created by zhuyifei on 2016/5/14.
  * @Description 自定义CustomeSwipeRefreshLayout<br>
  * 支持下拉刷新和上拉加载更多<br>
  * 非侵入式，对原来的ListView、RecyclerView没有任何影响,用法和SwipeRefreshLayout类似。<br>

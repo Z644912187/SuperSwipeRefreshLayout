@@ -7,9 +7,7 @@ import android.widget.TextView;
 import com.sjtu.charles.activity.R;
 
 /**
- * @Author Zheng Haibo
- * @PersonalWebsite http://www.mobctrl.net
- * @Description
+ * Created by zhuyifei on 2016/5/14.
  */
 public class ChildViewHolder extends BaseViewHolder {
 

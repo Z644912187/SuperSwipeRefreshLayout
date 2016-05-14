@@ -14,9 +14,7 @@ import com.sjtu.charles.viewholder.BaseViewHolder;
 import com.sjtu.charles.viewholder.ChildViewHolder;
 
 /**
- * @Author Zheng Haibo
- * @PersonalWebsite http://www.mobctrl.net
- * @Description
+ * Created by zhuyifei on 2016/5/14.
  */
 public class RecyclerAdapter extends RecyclerView.Adapter<BaseViewHolder> {
 

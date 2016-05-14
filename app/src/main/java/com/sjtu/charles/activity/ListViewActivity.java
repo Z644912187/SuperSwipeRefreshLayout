@@ -13,9 +13,7 @@ import android.widget.ListView;
 import com.sjtu.charles.views.SuperSwipeRefreshLayout;
 
 /**
- * @Author Zheng Haibo
- * @PersonalWebsite http://www.mobctrl.net
- * @Description
+ * Created by zhuyifei on 2016/5/14.
  */
 @SuppressLint("NewApi")
 public class ListViewActivity extends Activity {
